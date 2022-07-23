@@ -1,1 +1,1 @@
-# Earthquake-Damage-in-Nepal
+# Earthquake-Damage-Analysis
