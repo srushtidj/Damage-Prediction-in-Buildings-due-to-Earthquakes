@@ -1,1 +1,1 @@
-# Earthquake-Damage-Analysis
+# Earthquake-Damage-Prediction
