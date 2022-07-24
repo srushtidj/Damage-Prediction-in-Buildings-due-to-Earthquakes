@@ -1,1 +1,1 @@
-# Earthquake-Damage-Prediction
+# Damage-Prediction-in-Buildings-due-to-Earthquakes
